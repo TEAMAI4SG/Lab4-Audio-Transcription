@@ -26,7 +26,7 @@ In this lab, you'll dive into the world of audio transcription by taking a short
 ---
 
 ## 💵 Estimated Cost
-$1 (View your OpenAI usage [here]((https://platform.openai.com/usage))
+$1 (View your OpenAI usage [here](https://platform.openai.com/usage))
 
 ---
 
