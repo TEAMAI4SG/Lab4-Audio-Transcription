@@ -386,6 +386,9 @@ print("Meeting minutes saved to", minutes_filename + "!")
 7. Find another recording of your own and run this code again. You may consider recording a mock interview to see how you did! Remember the audio file should be less than 25MB. This will be part of your submission, so please do not upload and use any audio file that may contain information that you do not want to show to the instructor. Make sure to use different file names for the audio file and the meeting minutes.
 
 
+---
+
+
 ## ✅ Congratulations, you have successfully finished the lab
 
 Please submit your work as a PDF file with 
@@ -410,6 +413,10 @@ To help the teaching team grade your lab effectively and to protect your API sec
 2. Update your Colab setting so that everyone in SJSU group can access as a viewer;
 
 3. Please change your API key in your code to **“my-api-key-here”**
+
+
+---
+
 
 ## 📚 References
 - [Tutorial meeting-minutes](https://platform.openai.com/docs/tutorials/meeting-minutes)
